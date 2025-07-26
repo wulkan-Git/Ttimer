@@ -1,0 +1,30 @@
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\bin\Debug\timer.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\bin\Debug\timer.exe
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\bin\Debug\timer.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.exe
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.pdb
+D:\Users\Владимир\Desktop\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+D:\Users\Владимир\Desktop\timer\timer\obj\Debug\timer.Form1.resources
+D:\Users\Владимир\Desktop\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+D:\Users\Владимир\Desktop\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+D:\Users\Владимир\Desktop\timer\timer\bin\Debug\Ttimer.exe.config
+D:\Users\Владимир\Desktop\timer\timer\bin\Debug\Ttimer.exe
+D:\Users\Владимир\Desktop\timer\timer\bin\Debug\Ttimer.pdb
+D:\Users\Владимир\Desktop\timer\timer\obj\Debug\Ttimer.Properties.Resources.resources
+D:\Users\Владимир\Desktop\timer\timer\obj\Debug\Ttimer.exe
+D:\Users\Владимир\Desktop\timer\timer\obj\Debug\Ttimer.pdb
+D:\Users\Владимир\Рабочий стол\timer\timer\bin\Debug\Ttimer.exe.config
+D:\Users\Владимир\Рабочий стол\timer\timer\bin\Debug\Ttimer.exe
+D:\Users\Владимир\Рабочий стол\timer\timer\bin\Debug\Ttimer.pdb
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\Ttimer.exe.config
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\timer.Form1.resources
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\Ttimer.Properties.Resources.resources
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\Ttimer.exe
+D:\Users\Владимир\Рабочий стол\timer\timer\obj\Debug\Ttimer.pdb
